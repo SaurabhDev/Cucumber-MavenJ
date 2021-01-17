@@ -15,8 +15,9 @@ Feature: Calculator
 	Examples: 
     | num1 | num2 | total |
     | 2 | 3 | 5 |
-    | 20 | 3 | 5 |
+    | 20 | 3 | 23 |
     | 10 | 15 | 25 |
+    | 2 | 3 | 4|
     
     
     
